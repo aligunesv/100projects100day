@@ -1,2 +1,112 @@
-# 100projects100day
-"This repo contains 100 small web projects that I developed using HTML, CSS and JavaScript."
+# 100 Projects in 100 Days - HTML/CSS and JavaScript
+This repo contains 100 small web projects that I developed using HTML, CSS and JavaScript.
+
+
+| # | Projects |
+| -------------- | -------------- |
+| 1. | [Simple Survey Form]() |
+| 2. | [Coming Soon](https://www.imvora.dev) |
+| 3. | [Coming Soon](https://www.imvora.dev) |
+| 4. | [Coming Soon](https://www.imvora.dev) |
+| 5. | [Coming Soon](https://www.imvora.dev) |
+| 6. | [Coming Soon](https://www.imvora.dev) |
+| 7. | [Coming Soon](https://www.imvora.dev) |
+| 8. | [Coming Soon](https://www.imvora.dev) |
+| 9. | [Coming Soon](https://www.imvora.dev) |
+| 10. | [Coming Soon](https://www.imvora.dev) |
+| 11. | [Coming Soon](https://www.imvora.dev) |
+| 12. | [Coming Soon](https://www.imvora.dev) |
+| 13. | [Coming Soon](https://www.imvora.dev) |
+| 14. | [Coming Soon](https://www.imvora.dev) |
+| 15. | [Coming Soon](https://www.imvora.dev) |
+| 16. | [Coming Soon](https://www.imvora.dev) |
+| 17. | [Coming Soon](https://www.imvora.dev) |
+| 18. | [Coming Soon](https://www.imvora.dev) |
+| 19. | [Coming Soon](https://www.imvora.dev) |
+| 20. | [Coming Soon](https://www.imvora.dev) |
+| 21. | [Coming Soon](https://www.imvora.dev) |
+| 22. | [Coming Soon](https://www.imvora.dev) |
+| 23. | [Coming Soon](https://www.imvora.dev) |
+| 24. | [Coming Soon](https://www.imvora.dev) |
+| 25. | [Coming Soon](https://www.imvora.dev) |
+| 26. | [Coming Soon](https://www.imvora.dev) |
+| 27. | [Coming Soon](https://www.imvora.dev) |
+| 28. | [Coming Soon](https://www.imvora.dev) |
+| 29. | [Coming Soon](https://www.imvora.dev) |
+| 30. | [Coming Soon](https://www.imvora.dev) |
+| 31. | [Coming Soon](https://www.imvora.dev) |
+| 32. | [Coming Soon](https://www.imvora.dev) |
+| 33. | [Coming Soon](https://www.imvora.dev) |
+| 34. | [Coming Soon](https://www.imvora.dev) |
+| 35. | [Coming Soon](https://www.imvora.dev) |
+| 36. | [Coming Soon](https://www.imvora.dev) |
+| 37. | [Coming Soon](https://www.imvora.dev) |
+| 38. | [Coming Soon](https://www.imvora.dev) |
+| 39. | [Coming Soon](https://www.imvora.dev) |
+| 40. | [Coming Soon](https://www.imvora.dev) |
+| 41. | [Coming Soon](https://www.imvora.dev) |
+| 42. | [Coming Soon](https://www.imvora.dev) |
+| 43. | [Coming Soon](https://www.imvora.dev) |
+| 44. | [Coming Soon](https://www.imvora.dev) |
+| 45. | [Coming Soon](https://www.imvora.dev) |
+| 46. | [Coming Soon](https://www.imvora.dev) |
+| 47. | [Coming Soon](https://www.imvora.dev) |
+| 48. | [Coming Soon](https://www.imvora.dev) |
+| 49. | [Coming Soon](https://www.imvora.dev) |
+| 50. | [Coming Soon](https://www.imvora.dev) |
+| 51. | [Coming Soon](https://www.imvora.dev) |
+| 52. | [Coming Soon](https://www.imvora.dev) |
+| 53. | [Coming Soon](https://www.imvora.dev) |
+| 54. | [Coming Soon](https://www.imvora.dev) |
+| 55. | [Coming Soon](https://www.imvora.dev) |
+| 56. | [Coming Soon](https://www.imvora.dev) |
+| 57. | [Coming Soon](https://www.imvora.dev) |
+| 58. | [Coming Soon](https://www.imvora.dev) |
+| 59. | [Coming Soon](https://www.imvora.dev) |
+| 60. | [Coming Soon](https://www.imvora.dev) |
+| 61. | [Coming Soon](https://www.imvora.dev) |
+| 62. | [Coming Soon](https://www.imvora.dev) |
+| 63. | [Coming Soon](https://www.imvora.dev) |
+| 64. | [Coming Soon](https://www.imvora.dev) |
+| 65. | [Coming Soon](https://www.imvora.dev) |
+| 66. | [Coming Soon](https://www.imvora.dev) |
+| 67. | [Coming Soon](https://www.imvora.dev) |
+| 68. | [Coming Soon](https://www.imvora.dev) |
+| 69. | [Coming Soon](https://www.imvora.dev) |
+| 70. | [Coming Soon](https://www.imvora.dev) |
+| 71. | [Coming Soon](https://www.imvora.dev) |
+| 72. | [Coming Soon](https://www.imvora.dev) |
+| 73. | [Coming Soon](https://www.imvora.dev) |
+| 74. | [Coming Soon](https://www.imvora.dev) |
+| 75. | [Coming Soon](https://www.imvora.dev) |
+| 76. | [Coming Soon](https://www.imvora.dev) |
+| 77. | [Coming Soon](https://www.imvora.dev) |
+| 78. | [Coming Soon](https://www.imvora.dev) |
+| 79. | [Coming Soon](https://www.imvora.dev) |
+| 80. | [Coming Soon](https://www.imvora.dev) |
+| 81. | [Coming Soon](https://www.imvora.dev) |
+| 82. | [Coming Soon](https://www.imvora.dev) |
+| 83. | [Coming Soon](https://www.imvora.dev) |
+| 84. | [Coming Soon](https://www.imvora.dev) |
+| 85. | [Coming Soon](https://www.imvora.dev) |
+| 86. | [Coming Soon](https://www.imvora.dev) |
+| 87. | [Coming Soon](https://www.imvora.dev) |
+| 88. | [Coming Soon](https://www.imvora.dev) |
+| 89. | [Coming Soon](https://www.imvora.dev) |
+| 90. | [Coming Soon](https://www.imvora.dev) |
+| 91. | [Coming Soon](https://www.imvora.dev) |
+| 92. | [Coming Soon](https://www.imvora.dev) |
+| 93. | [Coming Soon](https://www.imvora.dev) |
+| 94. | [Coming Soon](https://www.imvora.dev) |
+| 95. | [Coming Soon](https://www.imvora.dev) |
+| 96. | [Coming Soon](https://www.imvora.dev) |
+| 97. | [Coming Soon](https://www.imvora.dev) |
+| 98. | [Coming Soon](https://www.imvora.dev) |
+| 99. | [Coming Soon](https://www.imvora.dev) |
+| 100. | [Coming Soon](https://www.imvora.dev) |
+
+
+--
+
+
+You can visit my website [imvora.dev](https://www.imvora.dev)
