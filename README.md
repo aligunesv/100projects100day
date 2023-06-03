@@ -4,7 +4,7 @@ This repo contains 100 small web projects that I developed using HTML, CSS and J
 
 | # | Projects |
 | -------------- | -------------- |
-| 1. | [Simple Survey Form]() |
+| 1. | [Simple Survey Form](https://github.com/aligunesv/100projects100day/tree/main/1-Simple-Survey-Form) |
 | 2. | [Coming Soon](https://www.imvora.dev) |
 | 3. | [Coming Soon](https://www.imvora.dev) |
 | 4. | [Coming Soon](https://www.imvora.dev) |
@@ -106,7 +106,7 @@ This repo contains 100 small web projects that I developed using HTML, CSS and J
 | 100. | [Coming Soon](https://www.imvora.dev) |
 
 
---
+----
 
 
 You can visit my website [imvora.dev](https://www.imvora.dev)
