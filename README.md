@@ -1,5 +1,6 @@
-# 100 Projects in 100 Days - HTML/CSS and JavaScript
-This repo contains 100 small web projects that I developed using HTML, CSS and JavaScript.
+# 100 Projects in 100 Days - HTML, CSS and JavaScript
+This repo contains 100 small web projects that I developed using HTML, CSS and JavaScript. I will upload a small project every day. You can use, explore, learn or customise all the projects in this repo.
+
 
 
 | # | Projects |
