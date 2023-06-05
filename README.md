@@ -7,7 +7,7 @@ This repo contains 100 small web projects that I developed using HTML, CSS and J
 | -------------- | -------------- |
 | 1. | [Simple Survey Form](https://github.com/aligunesv/100projects100day/tree/main/1-Simple-Survey-Form) |
 | 2. | [Countdown Timer](https://github.com/aligunesv/100projects100day/tree/main/2-Countdown-Timer) |
-| 3. | [Coming Soon](https://www.imvora.dev) |
+| 3. | [Light Switch](https://github.com/aligunesv/100projects100day/tree/main/3-Light-Switch) |
 | 4. | [Coming Soon](https://www.imvora.dev) |
 | 5. | [Coming Soon](https://www.imvora.dev) |
 | 6. | [Coming Soon](https://www.imvora.dev) |
