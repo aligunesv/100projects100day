@@ -1,4 +1,4 @@
-# Digital Watch with HTML, CSS and JAVASCRIPT
+# Digital Clock with HTML, CSS and JAVASCRIPT
 
 In this project, I coded a real-time digital clock with html, css and javascript. When the user opens the site, the clock is automatically updated (hours, minutes, seconds) and can be displayed in real time.
 
