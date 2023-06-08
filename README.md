@@ -10,7 +10,7 @@ This repo contains 100 small web projects that I developed using HTML, CSS and J
 | 3. | [Light Switch](https://github.com/aligunesv/100projects100day/tree/main/3-Light-Switch) |
 | 4. | [Digital Clock](https://github.com/aligunesv/100projects100day/tree/main/4-Digital-Clock) |
 | 5. | [Expanding Search Bar](https://github.com/aligunesv/100projects100day/tree/main/5-Expanding-Search-Bar) |
-| 6. | [Coming Soon](https://www.imvora.dev) |
+| 6. | [Sticky Navbar](https://github.com/aligunesv/100projects100day/tree/main/6-Sticky-Navbar) |
 | 7. | [Coming Soon](https://www.imvora.dev) |
 | 8. | [Coming Soon](https://www.imvora.dev) |
 | 9. | [Coming Soon](https://www.imvora.dev) |
