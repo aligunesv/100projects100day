@@ -13,7 +13,7 @@ This repo contains 100 small web projects that I developed using HTML, CSS and J
 | 6. | [Sticky Navbar](https://github.com/aligunesv/100projects100day/tree/main/6-Sticky-Navbar) |
 | 7. | [Random Quote Generator](https://github.com/aligunesv/100projects100day/tree/main/7-Random-Quote-Generator) |
 | 8. | [Password Strenght Indicator](https://github.com/aligunesv/100projects100day/tree/main/8-Password-Strenght-Indicator) |
-| 9. | [Coming Soon](https://www.imvora.dev) |
+| 9. | [Ripple Effect](https://github.com/aligunesv/100projects100day/tree/main/9-Ripple-Effect) |
 | 10. | [Coming Soon](https://www.imvora.dev) |
 | 11. | [Coming Soon](https://www.imvora.dev) |
 | 12. | [Coming Soon](https://www.imvora.dev) |
