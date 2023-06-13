@@ -1,7 +1,13 @@
 # 100 Projects in 100 Days - HTML, CSS and JavaScript
 This repo contains 100 small web projects that I developed using HTML, CSS and JavaScript. I will upload a small project every day. You can use, explore, learn or customise all the projects in this repo.
 
+----
 
+You can visit my website [imvora.dev](https://www.imvora.dev)
+
+----
+
+Here is all projects!
 
 | # | Projects |
 | -------------- | -------------- |
@@ -109,5 +115,4 @@ This repo contains 100 small web projects that I developed using HTML, CSS and J
 
 ----
 
-
-You can visit my website [imvora.dev](https://www.imvora.dev)
+Thanks for everything!
