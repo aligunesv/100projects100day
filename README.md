@@ -21,7 +21,7 @@ Here is all projects!
 | 8. | [Password Strenght Indicator](https://github.com/aligunesv/100projects100day/tree/main/8-Password-Strenght-Indicator) |
 | 9. | [Ripple Effect](https://github.com/aligunesv/100projects100day/tree/main/9-Ripple-Effect) |
 | 10. | [Expanding Cards](https://github.com/aligunesv/100projects100day/tree/main/10-Expanding-Cards) |
-| 11. | [Coming Soon](https://github.com/aligunesv/100projects100day/tree/main/11-Typing-Animation) |
+| 11. | [Typing Animation](https://github.com/aligunesv/100projects100day/tree/main/11-Typing-Animation) |
 | 12. | [Coming Soon](https://www.imvora.dev) |
 | 13. | [Coming Soon](https://www.imvora.dev) |
 | 14. | [Coming Soon](https://www.imvora.dev) |
