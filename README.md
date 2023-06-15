@@ -22,7 +22,7 @@ Here is all projects!
 | 9. | [Ripple Effect](https://github.com/aligunesv/100projects100day/tree/main/9-Ripple-Effect) |
 | 10. | [Expanding Cards](https://github.com/aligunesv/100projects100day/tree/main/10-Expanding-Cards) |
 | 11. | [Typing Animation](https://github.com/aligunesv/100projects100day/tree/main/11-Typing-Animation) |
-| 12. | [Coming Soon](https://github.com/aligunesv/100projects100day/tree/main/12-Simple-Counter) |
+| 12. | [Simple Counter](https://github.com/aligunesv/100projects100day/tree/main/12-Simple-Counter) |
 | 13. | [Coming Soon](https://www.imvora.dev) |
 | 14. | [Coming Soon](https://www.imvora.dev) |
 | 15. | [Coming Soon](https://www.imvora.dev) |
