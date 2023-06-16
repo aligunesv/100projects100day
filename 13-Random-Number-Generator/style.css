@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #151515;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    color: #efefef;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+h1{
+    margin: 20px;
+}
+
+footer{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: #8f8f8f;
+    bottom: 0;
+    margin-bottom: 20px;
+}
+
+footer a{
+    color: #EEEEEE;
+}
