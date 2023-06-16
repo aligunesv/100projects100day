@@ -23,7 +23,7 @@ Here is all projects!
 | 10. | [Expanding Cards](https://github.com/aligunesv/100projects100day/tree/main/10-Expanding-Cards) |
 | 11. | [Typing Animation](https://github.com/aligunesv/100projects100day/tree/main/11-Typing-Animation) |
 | 12. | [Simple Counter](https://github.com/aligunesv/100projects100day/tree/main/12-Simple-Counter) |
-| 13. | [Coming Soon](https://www.imvora.dev) |
+| 13. | [Random Number Generator](https://github.com/aligunesv/100projects100day/tree/main/13-Random-Number-Generator) |
 | 14. | [Coming Soon](https://www.imvora.dev) |
 | 15. | [Coming Soon](https://www.imvora.dev) |
 | 16. | [Coming Soon](https://www.imvora.dev) |
