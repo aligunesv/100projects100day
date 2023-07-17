@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Password Generator | imvora.dev | 17/100</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Password Generator</h1>
+        <label for="length">Choose Your Password Length:</label>
+        <input type="number" id="length" min="8" max="25" value="8">
+        <button onclick="generatePassword()">Generate!</button>
+        <label for="pass">Your Password: </label>
+        <input type="text" id="password" readonly>
+    </div>
+
+    <footer>
+        <p>password generator by <a href="https://wwww.imvora.dev">imvora.dev</a></p>
+    </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
