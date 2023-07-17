@@ -19,8 +19,13 @@ In this project, a simple password generator application is developed using HTML
 
 ## Example Screenshot
 
-![Example Screenshot](screenshot.png)
+![passgen](https://github.com/aligunesv/100projects100day/assets/82121296/7bfa2758-59e4-4bb8-a335-b3203ea99b4e)
+
 
 This project provides a simple password generator application that can assist you in generating passwords whenever needed.
 
 This project is the 17th sub-project of the 100Projects100Days series by [@aligunesv](https://github.com/aligunesv/100projects100day).
+
+----
+
+You can visit my website [imvora.dev](https://www.imvora.dev)
