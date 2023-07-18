@@ -21,7 +21,7 @@ In this project, an animated navigation menu is created using HTML, CSS, and Jav
 
 ## Example Screenshot
 
-![Animated Navigation Menu](example-screenshot.png)
+![anm](https://github.com/aligunesv/100projects100day/assets/82121296/f427e004-9ac0-45cd-8ae5-aaf057e1b900)
 
 This project provides an interactive animated navigation menu that can be easily integrated into various web projects.
 
