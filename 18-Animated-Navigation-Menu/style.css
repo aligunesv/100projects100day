@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    transition: .4s;
+}
+
+body{
+    background-color: #121212;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: fixed;
+    z-index: 1;
+    height: 100vh;
+    background-color: #FCFCFC;
+    width: 100%;
+}
+
+/*MENU ANIM START*/
+
+header.hidden{
+    transform: translateX(-100%);
+}
+
+.headanimfirst{
+    height: 100vh;
+    position: fixed;
+    z-index: -2;
+    background-color: #6a6a6a;
+    width: 100%;
+}
+
+.headanimfirst.hiddenfirst{
+    transform: translateX(-100%);
+    transition-delay: 300ms;
+}
+
+.headanimsecond{
+    height: 100vh;
+    position: fixed;
+    z-index: -3;
+    background-color: #393939;
+    width: 100%;
+}
+
+.headanimsecond.hiddensecond{
+    transform: translateX(-100%);
+    transition-delay: 500ms;
+}
+
+.headanimthird{
+    height: 100vh;
+    position: fixed;
+    z-index: -4;
+    background-color: #1c1c1c;
+    width: 100%;
+}
+
+.headanimthird.hiddenthird{
+    transform: translateX(-100%);
+    transition-delay: 700ms;
+}
+
+/*MENU ANIM END*/
+
+header ul{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+header ul li{
+    list-style: none;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #121212;
+    font-size: 4rem;
+    padding: 8px 20px;
+}
+
+header ul li a:hover{
+    background-color: #121212;
+    color: #FCFCFC;
+}
+
+.menu-btn{
+    position: fixed;
+    right: 50px;
+    top: 50px;
+    z-index: 2;
+}
+
+.menu-btn button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.menu-btn button i{
+    font-size: 2rem;
+    color: #FCFCFC;
+}
+
+.menu-btn button.btnOff i{
+    color: #121212;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+section h1{
+    font-size: 5rem;
+    color: #FCFCFC;
+}
+
+section p{
+    font-size: 2rem;
+    color: #888888;
+}
+
+
+footer{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #8f8f8f;
+    margin-bottom: 20px;
+}
+
+footer a{
+    color: #EEEEEE;
+}
