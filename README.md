@@ -28,7 +28,7 @@ Here is all projects!
 | 15. | [Relative Video Popup](https://github.com/aligunesv/100projects100day/tree/main/15-Relative-Video-Popup) |
 | 16. | [Word Counter](https://github.com/aligunesv/100projects100day/tree/main/16-Word-Counter) |
 | 17. | [Coming Soon](https://www.imvora.dev) |
-| 18. | [Coming Soon](https://www.imvora.dev) |
+| 18. | [Animated Navigation Menu](https://github.com/aligunesv/100projects100day/tree/main/18-Animated-Navigation-Menu) |
 | 19. | [Coming Soon](https://www.imvora.dev) |
 | 20. | [Coming Soon](https://www.imvora.dev) |
 | 21. | [Coming Soon](https://www.imvora.dev) |
