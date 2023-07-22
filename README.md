@@ -30,8 +30,8 @@ Here is all projects!
 | 17. | [Password Generator](https://github.com/aligunesv/100projects100day/tree/main/17-Password-Generator) |
 | 18. | [Animated Navigation Menu](https://github.com/aligunesv/100projects100day/tree/main/18-Animated-Navigation-Menu) |
 | 19. | [Temperature Converter](https://github.com/aligunesv/100projects100day/tree/main/19-Temperature-Converter) |
-| 20. | [Coming Soon](https://www.imvora.dev) |
-| 21. | [Coming Soon](https://www.imvora.dev) |
+| 20. | [Background Color Changer](https://github.com/aligunesv/100projects100day/tree/main/20-Background-Color-Changer) |
+| 21. | [Text Color Changer](https://github.com/aligunesv/100projects100day/tree/main/21-Text-Color-Changer) |
 | 22. | [Coming Soon](https://www.imvora.dev) |
 | 23. | [Coming Soon](https://www.imvora.dev) |
 | 24. | [Coming Soon](https://www.imvora.dev) |
