@@ -1,4 +1,4 @@
-# Background Color Changer - 100Projects100Days
+# Background Color Changer
 
 This project is the 20th sub-project of the 100Projects100Days series.
 
@@ -21,7 +21,8 @@ In this project, a background color changer application is developed using HTML,
 
 ## Example Screenshot
 
-![Background Color Changer](https://github.com/aligunesv/100projects100day/assets/82121296/7bfa2758-59e4-4bb8-a335-b3203ea99b4e)
+<img width="1720" alt="bgchanger" src="https://github.com/aligunesv/100projects100day/assets/82121296/ae5d6383-6c5f-4d22-89dc-34a0d863c8fd">
+
 
 This project provides a fun background color changer application that allows you to create a dynamic and visually engaging experience.
 
