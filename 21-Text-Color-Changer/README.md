@@ -21,7 +21,7 @@ In this project, a text color changer application is developed using HTML, CSS, 
 
 ## Example Screenshot
 
-![Text Color Changer](https://github.com/aligunesv/100projects100day/assets/82121296/7bfa2758-59e4-4bb8-a335-b3203ea99b4e)
+<img width="1719" alt="txtchanger" src="https://github.com/aligunesv/100projects100day/assets/82121296/cb322ba3-cba1-4591-a7f5-aed6b26eda37">
 
 This project provides a fun text color changer application that allows you to create a dynamic and visually engaging experience.
 
