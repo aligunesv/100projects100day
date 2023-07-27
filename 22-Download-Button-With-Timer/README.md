@@ -23,11 +23,12 @@ In this project, a download button with a timer is developed using HTML, CSS, an
 
 ## Example Screenshot
 
-
-
+![downbtnwithtimer](https://github.com/aligunesv/100projects100day/assets/82121296/9e6c3b08-ff0c-4261-8f5b-09ca1eaa5028)
 
 This project provides a simple download button with a timer that can be used to implement delayed downloads and improve user experience.
 
 This project is the 22nd sub-project of the 100Projects100Days series by [@aligunesv](https://github.com/aligunesv).
+
+----
 
 You can visit my website [imvora.dev](https://www.imvora.dev) for more projects and information.
