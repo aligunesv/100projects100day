@@ -21,7 +21,7 @@ In this project, a draggable card is created using HTML, CSS, and JavaScript. Th
 
 ## Example Screenshot
 
-![draggablecard](https://example.com/path/to/screenshot)
+![draggablecard](https://github.com/aligunesv/100projects100day/assets/82121296/de46ba5b-165a-41b8-ac61-f3fad42ae571)
 
 This project provides a simple draggable card that can be used as part of web applications to enhance user interactions.
 
