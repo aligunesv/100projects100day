@@ -34,7 +34,7 @@ Here is all projects!
 | 21. | [Text Color Changer](https://github.com/aligunesv/100projects100day/tree/main/21-Text-Color-Changer) |
 | 22. | [Download Button With Timer](https://github.com/aligunesv/100projects100day/tree/main/22-Download-Button-With-Timer) |
 | 23. | [Draggable Card](https://github.com/aligunesv/100projects100day/tree/main/23-Draggable-Card) |
-| 24. | [Coming Soon](https://www.imvora.dev) |
+| 24. | [Scroll Animation](https://github.com/aligunesv/100projects100day/tree/main/24-Scroll-Animation) |
 | 25. | [Coming Soon](https://www.imvora.dev) |
 | 26. | [Coming Soon](https://www.imvora.dev) |
 | 27. | [Coming Soon](https://www.imvora.dev) |
