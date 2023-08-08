@@ -20,6 +20,7 @@ The "Scroll Animation" project is the 24th project in the 100Projects100Days ser
 
 ## Example Screenshot
 
+<img width="1718" alt="scroll-animation" src="https://github.com/aligunesv/100projects100day/assets/82121296/32451475-5aed-4c86-a81d-a0918dbef437">
 
 
 This project demonstrates the implementation of scroll animations to make web content more engaging and interactive.
