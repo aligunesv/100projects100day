@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: #0f0f0f;
+}
+
+.stopwatch-section{
+    background: #0f0f0f;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stopwatch-section-content{
+    width: 500px;
+    padding: 20px;
+    border-radius: 1rem;
+    color: #0f0f0f;
+    background: #fcfcfc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.timer{
+    font-size: 3rem;
+}
+
+.btns{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btns button{
+    padding: 12px 24px;
+    outline: none;
+    border: none;
+    background-color: #0f0f0f;
+    color: #fcfcfc;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    &&:hover{
+        background-color: #4b4b4b;
+    }
+}
+
+footer{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #8f8f8f;
+    margin-bottom: 20px;
+}
+
+footer a{
+    color: #8b0a0a;
+}
