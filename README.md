@@ -35,7 +35,7 @@ Here is all projects!
 | 22. | [Download Button With Timer](https://github.com/aligunesv/100projects100day/tree/main/22-Download-Button-With-Timer) |
 | 23. | [Draggable Card](https://github.com/aligunesv/100projects100day/tree/main/23-Draggable-Card) |
 | 24. | [Scroll Animation](https://github.com/aligunesv/100projects100day/tree/main/24-Scroll-Animation) |
-| 25. | [Coming Soon](https://www.imvora.dev) |
+| 25. | [Stopwatch](https://github.com/aligunesv/100projects100day/tree/main/25-Stopwatch) |
 | 26. | [Coming Soon](https://www.imvora.dev) |
 | 27. | [Coming Soon](https://www.imvora.dev) |
 | 28. | [Coming Soon](https://www.imvora.dev) |
